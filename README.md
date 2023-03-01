@@ -33,7 +33,8 @@ Your website must consist of seven pages as follows:
     - Uses a Bootstrap grid for the visualizations. This grid must contain two visualizations across a medium or large screen and one visualization across an extra-small or small screen.
 - A data page that displays a responsive table containing the data that the visualizations use, as follows:
     - The table must be a Bootstrap ```table``` component.
-    - The data must come from either exporting or converting the CSV file to HTML. To do so, try using a tool that you already know: Pandas. Pandas has a ```to_html``` method that generates an HTML table from a Pandas DataFrame. To learn more, see pandas.DataFrame.to_htmlLinks to an external site. in the official Pandas documentation. **Note:** Whether you use your own CSV file or the one provided, you should also upload the CSV file you used with your submission. This way your data page can be compared with the CSV file by your grader.
+    - The data must come from either exporting or converting the CSV file to HTML. To do so, try using a tool that you already know: Pandas. Pandas has a ```to_html``` method that generates an HTML table from a Pandas DataFrame. To learn more, see pandas.DataFrame.to_htmlLinks to an external site. in the official Pandas documentation.
+    **Note:** Whether you use your own CSV file or the one provided, you should also upload the CSV file you used with your submission. This way your data page can be compared with the CSV file by your grader.
 
 At the top of every page, your website must have a navigation bar that does the following:
 - Contains the name of the site on the left side of the navigation bar, allowing users to return to the landing page from any page.
